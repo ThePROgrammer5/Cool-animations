@@ -7,4 +7,3 @@ ctx.lineWidth = 5;
 ctx.biginPath();
 ctx.arc(100, 100, 50, 0, Math.PI * 2);
 ctx.stroke();
-ctx.fill();
