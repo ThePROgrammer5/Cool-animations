@@ -9,4 +9,4 @@ Window.addEventListener('resize', function() {
 });
 
 ctx.fillStyle = 'white';
-ctx.fillRect(50, 50, 100, 100); 
+ctx.fillRect(50, 50, 100, 100);
