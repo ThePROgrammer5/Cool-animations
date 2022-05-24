@@ -8,7 +8,5 @@ Window.addEventListener('resize', function() {
     canvas.height = window.innerHeight;
 });
 
-ctx.fillStyle = 'red';
-ctx.beginPath();
-ctx.arc(100, 100, 50, 0, Math.PI * 2);
-ctx.fill(); 
+ctx.fillStyle = 'white';
+ctx.fillRect(50, 50, 100, 100); 
